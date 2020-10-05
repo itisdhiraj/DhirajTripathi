@@ -25,6 +25,7 @@
 <a href="https://fb.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://instagram.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://medium.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="itisdhiraj" height="30" width="40" /></a>
+<a href="https://people.sap.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sap.svg" alt="itisdhiraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
