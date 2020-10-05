@@ -1,1 +1,1 @@
-# DhirajTripathi
+# Dhiraj Kumar Tripathi
