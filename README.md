@@ -18,14 +18,14 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://people.sap.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sap.svg" alt="itisdhiraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://dev.to/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://twitter.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itisdhiraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14397379" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14397379" height="30" width="40" /></a>
 <a href="https://fb.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://instagram.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itisdhiraj" height="30" width="40" /></a>
 <a href="https://medium.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="itisdhiraj" height="30" width="40" /></a>
-<a href="https://people.sap.com/itisdhiraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sap.svg" alt="itisdhiraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
