@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning to **navigate through life 🚢**
 
-- 👨‍💻 All of my projects are available at [https://itisdhiraj.com](https://itisdhiraj.com)
+- 👨‍💻 All of my projects are available at [My Webpage](https://itisdhiraj.com)
 
 - 📝 I regulary write articles on [https://itisdhiraj.com/dev](https://itisdhiraj.com/dev)
 
