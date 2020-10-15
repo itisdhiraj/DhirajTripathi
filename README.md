@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar Tripathi</h1>
-<h3 align="center"> Developer at SAP. Traveller. Photographer. Writer.</h3>
+<h3 align="center">Computer Scientist focusing on Data Science and Python development. Developer at SAP. Traveller. Photographer. Writer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itisdhiraj&color=brightgreen" alt="itisdhiraj" /> </p>
 
